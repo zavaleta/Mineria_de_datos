@@ -1,7 +1,7 @@
-![](images/untumbes.png)
+<img src="images/untumbes.png">
 ---
-![](images/bio-zava.png)
-
+<img src="images/bio-zava.png">
+---
 > ## 1. Introducción a los fundamentos de minería de datos.
 > ## 2. Fases de la Minería de datos.
 > ## 3. Modelos de clasificación.
