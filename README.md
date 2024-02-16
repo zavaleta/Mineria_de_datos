@@ -2,7 +2,7 @@
 ---
 ![](images/bio-zava.png)
 ---
-> ## 1. Introducción a los fundamentos de minería de datos.
+> ## 1. Introducción a los fundamentos de minería de datos.[Teoria](clase_0.ipynb)
 > ## 2. Fases de la Minería de datos.
 > ## 3. Modelos de clasificación.
 > ## 4. Arboles de decisión, modelos de regresión.
