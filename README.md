@@ -1,2 +1,3 @@
-# mineria_de_datos
+#
+# Minería de datos
 Curso de Minería de datos - UNTumbes
