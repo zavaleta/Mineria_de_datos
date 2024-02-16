@@ -1,4 +1,4 @@
-![unt](images/untumbes.png)
+![](images/untumbes.png)
 ---
 ![](images/bio-zava.png)
 
