@@ -1,4 +1,4 @@
-![unt](images/untumbes.png)
+![](images/untumbes.png)
 ---
 ![](images/bio-zava.png)
 
@@ -10,4 +10,4 @@
 > ## 6. Algoritmo a priori, análisis de casos.
 
 ---
- Copyrights &copy; Jorge Zavaleta, 2024
+ <center> Copyrights &copy; Jorge Zavaleta, 2024 </center>
