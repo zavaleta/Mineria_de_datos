@@ -1,6 +1,6 @@
-![](images/untumbes.png)
+![UNT](images/untumbes.PNG)
 ---
-![](images/bio-zava.png)
+![BIO](images/bio-zava.PNG)
 ---
 > ## 1. Introducción a los fundamentos de minería de datos.[Teoria](clase_0.ipynb)
 > ## 2. Fases de la Minería de datos.
