@@ -6,7 +6,7 @@
 | Temas                                              | Teoria | Práctica    |
 |--------------------------------------------------------|--------| ------------|
 | 1. Introducción a los fundamentos de minería de datos | [<img src="images/pdf1.png" alt="pdf" width="25"/>](pdf/01_intro_mineria_de_datos_2024.pdf) | [<img src="images/pdf1.png" alt="pdf" width="25"/>](pdf/01_ambientes_de_programacao_2024.pdf)|
-| 2. Fases de la Minería de datos | [<img src="images/pdf1.png" alt="pdf" width="25"/>](pdf/01_intro_mineria_de_datos_2024.pdf)| [<img src="images/pdf1.png" alt="pdf" width="25"/>](pdf/01_ambientes_de_programacao_2024.pdf)|
+| 2. Preparación de datos | [<img src="images/pdf1.png" alt="pdf" width="25"/>](pdf/02a_procesamiento_de_datos.pdf)| [<img src="images/pdf2.png" alt="pdf" width="25"/>](DM_not_found.md)|
 | 3. Modelos de clasificación. |  [<img src="images/pdf2.png" alt="pdf" width="25"/>](DM_not_found.md) |  [<img src="images/pdf2.png" alt="pdf" width="25"/>](DM_not_found.md) |
 | 4. Arboles de decisión, modelos de regresión.|  [<img src="images/pdf2.png" alt="pdf" width="25"/>](DM_not_found.md) |  [<img src="images/pdf2.png" alt="pdf" width="25"/>](DM_not_found.md) |
 | 5. Redes neuronales, modelos de agrupamiento y algoritmo, modelos de asociación.|  [<img src="images/pdf2.png" alt="pdf" width="25"/>](DM_not_found.md) |  [<img src="images/pdf2.png" alt="pdf" width="25"/>](DM_not_found.md) |
