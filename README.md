@@ -11,6 +11,7 @@
 | 4. Arboles de decisión, modelos de regresión.|  [<img src="images/pdf1.png" alt="pdf" width="25"/>](pdf/arboles_regresion.pdf) |  [<img src="images/Jupyter.png" alt="jupyter" width="25"/>](clasificacion_algoritmos.ipynb) [<img src="images/Jupyter.png" alt="jupyter" width="25"/>](naive_bayes.ipynb) [<img src="images/Jupyter.png" alt="jupyter" width="25"/>](mlp.ipynb)|
 | 5. Redes neuronales, modelos de agrupamiento y algoritmo, modelos de asociación.|  [<img src="images/pdf1.png" alt="pdf" width="25"/>](pdf/rn.pdf) [<img src="images/pdf1.png" alt="pdf" width="25"/>](pdf/ra.pdf)|  [<img src="images/Jupyter.png" alt="jupyter" width="25"/>](clustering_v0.ipynb)[<img src="images/Jupyter.png" alt="jupyter" width="25"/>](clustering_v1.ipynb)[<img src="images/Jupyter.png" alt="jupyter" width="25"/>](h_clustering.ipynb)[<img src="images/Jupyter.png" alt="jupyter" width="25"/>](db_clustering.ipynb)[<img src="images/Jupyter.png" alt="jupyter" width="25"/>](s_clustering.ipynb)[<img src="images/Jupyter.png" alt="jupyter" width="25"/>](asocia_reglas.ipynb) |
 | 6. Algoritmo a priori, análisis de casos|  [<img src="images/pdf1.png" alt="pdf" width="25"/>](pdf/apriori.pdf) |  [<img src="images/Jupyter.png" alt="jupyter" width="25"/>](alg_apriori.ipynb)[<img src="images/Jupyter.png" alt="jupyter" width="25"/>](alg_fp_growth.ipynb) |
+| 7. Orange, una herramienta para minería de datos|  [<img src="images/orange.png" alt="Español" width="25"/>](orange_es.md) |  [<img src="images/orange.png" alt="Portugues" width="25"/>](orange_pt.md) |
 
 ## Bibliografia
 
