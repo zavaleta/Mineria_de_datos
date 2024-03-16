@@ -2,10 +2,7 @@
 ---
 ![BIO](images/bio-zava.PNG)
 ---
-<center>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10826286.svg)](https://doi.org/10.5281/zenodo.10826286)</center>
-
-<span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.10826286" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10826286.svg)](https://doi.org/10.5281/zenodo.10826286)
 
 
 | Temas                                                  | Teoria |     Práctica    |
