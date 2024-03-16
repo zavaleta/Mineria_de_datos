@@ -2,6 +2,11 @@
 ---
 ![BIO](images/bio-zava.PNG)
 ---
+<center>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10826286.svg)](https://doi.org/10.5281/zenodo.10826286)</center>
+
+<span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.10826286" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
 
 | Temas                                                  | Teoria |     Práctica    |
 |--------------------------------------------------------|--------|-----------------|
@@ -32,7 +37,9 @@ Material online relacionado con el contenido (se distribuirán diapositivas, tex
 13. John D. Kelleher, Brian Mac Namee, and Aoife DArcy. Fundamentals of machine learning for predictive data analytics: algorithms, worked examples, and case studies. MIT, 2015.
 14. Manohar Swamynathan, Mastering Machine Learning with Python in Six Steps. Apress, 2017. Michel Bowles, Machine Learning in Python®: Essential Techniques for Predictive Analysis. John Wiley & Sons, Inc. 2015.
 
-
+---
+**Citation:**
+> **Jorge Zavaleta**. (2024). zavaleta/Mineria_de_datos: Minería de Datos (v.1.1.0). Zenodo. https://doi.org/10.5281/zenodo.10826286
 
 ---
  <center> Copyrights &copy; Jorge Zavaleta, 2024 </center>

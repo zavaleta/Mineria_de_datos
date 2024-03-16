@@ -57,7 +57,7 @@
 * **Recursos Avançados Limitados:** Em comparação com outras ferramentas de código fechado, o ORANGE têm  recursos mais limitados para tarefas complexas.
 * **Desempenho:** Para grandes conjuntos de dados, o desempenho do ORANGE pode ser inferior ao de outras ferramentas.
 
-##Conclusão
+## Conclusão
 
 > O ORANGE é uma ferramenta poderosa e versátil para mineração de dados que se destaca por sua interface amigável e código aberto. É uma ótima opção para iniciantes e profissionais que buscam uma ferramenta visual e intuitiva para explorar e analisar dados. No entanto, para tarefas complexas e grandes conjuntos de dados, outras ferramentas podem ser mais adequadas.
 
