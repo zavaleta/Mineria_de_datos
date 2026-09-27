@@ -39,4 +39,4 @@ Material online relacionado con el contenido (se distribuirán diapositivas, tex
 > **Jorge Zavaleta**. (2024). zavaleta/Mineria_de_datos: Minería de Datos (v.1.1.0). Zenodo. https://doi.org/10.5281/zenodo.10826286
 
 ---
- <center> Copyrights &copy; Jorge Zavaleta, 2024 </center>
+ <center> Copyrights &copy; Jorge Zavaleta, 2024, 2025, 2026 </center>
